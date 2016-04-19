@@ -1,1 +1,1 @@
-console.log("Hello!");
+console.log("Enter to the matrix!");
