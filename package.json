@@ -1,0 +1,21 @@
+{
+  "name": "es6-boilerplate",
+  "version": "1.0.0",
+  "description": "npm install\r     bower install\r     chmod +x execute.sh",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LudoBermejo/es6-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LudoBermejo/es6-boilerplate/issues"
+  },
+  "homepage": "https://github.com/LudoBermejo/es6-boilerplate#readme"
+}
