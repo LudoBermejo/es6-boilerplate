@@ -1,2 +1,3 @@
-var value = 99;
-console.log(value);
+import { whereAmI } from 'js/module_values.js';
+
+console.log(whereAmI);
